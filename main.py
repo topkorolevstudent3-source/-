@@ -1,1 +1,6 @@
-print('Hello world!')
+a = ('timoha')
+b = ('mihailovich')
+c = ('krasava')
+d = ('zaslujil')
+e = ('sirok')
+print(a, b, c, d, e, sep = ' ')
